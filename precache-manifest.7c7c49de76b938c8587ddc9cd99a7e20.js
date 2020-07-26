@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18a4212c65b9106ec79f939e06e3008c",
+    "revision": "24299b3a869b2a2c9c487ac6b95c0c7b",
     "url": "/Tensorflow-Facemash-Demo/index.html"
   },
   {
-    "revision": "8a690a789991d4658f5b",
-    "url": "/Tensorflow-Facemash-Demo/static/css/main.62af4a8d.chunk.css"
+    "revision": "c30698f17b1359875873",
+    "url": "/Tensorflow-Facemash-Demo/static/css/main.f16b2e9d.chunk.css"
   },
   {
     "revision": "f299beb79cb79fa327ae",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tensorflow-Facemash-Demo/static/js/2.7afc25ee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a690a789991d4658f5b",
-    "url": "/Tensorflow-Facemash-Demo/static/js/main.912a967d.chunk.js"
+    "revision": "c30698f17b1359875873",
+    "url": "/Tensorflow-Facemash-Demo/static/js/main.c51e8097.chunk.js"
   },
   {
     "revision": "52787fa0fd2ed9fe2437",

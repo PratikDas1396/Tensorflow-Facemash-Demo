@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Tensorflow-Facemash-Demo/static/css/main.62af4a8d.chunk.css",
-    "main.js": "/Tensorflow-Facemash-Demo/static/js/main.912a967d.chunk.js",
-    "main.js.map": "/Tensorflow-Facemash-Demo/static/js/main.912a967d.chunk.js.map",
+    "main.css": "/Tensorflow-Facemash-Demo/static/css/main.f16b2e9d.chunk.css",
+    "main.js": "/Tensorflow-Facemash-Demo/static/js/main.c51e8097.chunk.js",
+    "main.js.map": "/Tensorflow-Facemash-Demo/static/js/main.c51e8097.chunk.js.map",
     "runtime-main.js": "/Tensorflow-Facemash-Demo/static/js/runtime-main.094a6343.js",
     "runtime-main.js.map": "/Tensorflow-Facemash-Demo/static/js/runtime-main.094a6343.js.map",
     "static/js/2.7afc25ee.chunk.js": "/Tensorflow-Facemash-Demo/static/js/2.7afc25ee.chunk.js",
     "static/js/2.7afc25ee.chunk.js.map": "/Tensorflow-Facemash-Demo/static/js/2.7afc25ee.chunk.js.map",
     "index.html": "/Tensorflow-Facemash-Demo/index.html",
-    "precache-manifest.4227f65b4065336d5c135fc2f108f434.js": "/Tensorflow-Facemash-Demo/precache-manifest.4227f65b4065336d5c135fc2f108f434.js",
+    "precache-manifest.7c7c49de76b938c8587ddc9cd99a7e20.js": "/Tensorflow-Facemash-Demo/precache-manifest.7c7c49de76b938c8587ddc9cd99a7e20.js",
     "service-worker.js": "/Tensorflow-Facemash-Demo/service-worker.js",
-    "static/css/main.62af4a8d.chunk.css.map": "/Tensorflow-Facemash-Demo/static/css/main.62af4a8d.chunk.css.map",
+    "static/css/main.f16b2e9d.chunk.css.map": "/Tensorflow-Facemash-Demo/static/css/main.f16b2e9d.chunk.css.map",
     "static/js/2.7afc25ee.chunk.js.LICENSE.txt": "/Tensorflow-Facemash-Demo/static/js/2.7afc25ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.094a6343.js",
     "static/js/2.7afc25ee.chunk.js",
-    "static/css/main.62af4a8d.chunk.css",
-    "static/js/main.912a967d.chunk.js"
+    "static/css/main.f16b2e9d.chunk.css",
+    "static/js/main.c51e8097.chunk.js"
   ]
 }

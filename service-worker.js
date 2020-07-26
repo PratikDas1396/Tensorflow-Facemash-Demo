@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tensorflow-Facemash-Demo/precache-manifest.4227f65b4065336d5c135fc2f108f434.js"
+  "/Tensorflow-Facemash-Demo/precache-manifest.7c7c49de76b938c8587ddc9cd99a7e20.js"
 );
 
 self.addEventListener('message', (event) => {

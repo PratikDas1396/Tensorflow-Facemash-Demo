@@ -1,12 +1,11 @@
 {
   "name": "pwa-object-detection",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "homepage": "https://pratikdas1396.github.io/Tensorflow-Facemash-Demo",
   "dependencies": {
     "@tensorflow-models/facemesh": "0.0.3",
-    "@tensorflow-models/mobilenet": "^2.0.4",
-    "@tensorflow/tfjs": "^2.0.1",
+    "@tensorflow/tfjs": "^1.7.4",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -15,8 +14,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

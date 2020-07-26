@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tensorflow-Facemash-Demo/static/css/main.62af4a8d.chunk.css",
+    "main.js": "/Tensorflow-Facemash-Demo/static/js/main.901a7875.chunk.js",
+    "main.js.map": "/Tensorflow-Facemash-Demo/static/js/main.901a7875.chunk.js.map",
+    "runtime-main.js": "/Tensorflow-Facemash-Demo/static/js/runtime-main.094a6343.js",
+    "runtime-main.js.map": "/Tensorflow-Facemash-Demo/static/js/runtime-main.094a6343.js.map",
+    "static/js/2.12055793.chunk.js": "/Tensorflow-Facemash-Demo/static/js/2.12055793.chunk.js",
+    "static/js/2.12055793.chunk.js.map": "/Tensorflow-Facemash-Demo/static/js/2.12055793.chunk.js.map",
+    "index.html": "/Tensorflow-Facemash-Demo/index.html",
+    "precache-manifest.7b97178481f0212aeb9eb8ec07bf0332.js": "/Tensorflow-Facemash-Demo/precache-manifest.7b97178481f0212aeb9eb8ec07bf0332.js",
+    "service-worker.js": "/Tensorflow-Facemash-Demo/service-worker.js",
+    "static/css/main.62af4a8d.chunk.css.map": "/Tensorflow-Facemash-Demo/static/css/main.62af4a8d.chunk.css.map",
+    "static/js/2.12055793.chunk.js.LICENSE.txt": "/Tensorflow-Facemash-Demo/static/js/2.12055793.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.094a6343.js",
+    "static/js/2.12055793.chunk.js",
+    "static/css/main.62af4a8d.chunk.css",
+    "static/js/main.901a7875.chunk.js"
+  ]
+}

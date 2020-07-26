@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Tensorflow-Facemash-Demo/static/css/main.62af4a8d.chunk.css",
-    "main.js": "/Tensorflow-Facemash-Demo/static/js/main.873cfcb8.chunk.js",
-    "main.js.map": "/Tensorflow-Facemash-Demo/static/js/main.873cfcb8.chunk.js.map",
+    "main.js": "/Tensorflow-Facemash-Demo/static/js/main.912a967d.chunk.js",
+    "main.js.map": "/Tensorflow-Facemash-Demo/static/js/main.912a967d.chunk.js.map",
     "runtime-main.js": "/Tensorflow-Facemash-Demo/static/js/runtime-main.094a6343.js",
     "runtime-main.js.map": "/Tensorflow-Facemash-Demo/static/js/runtime-main.094a6343.js.map",
-    "static/js/2.12055793.chunk.js": "/Tensorflow-Facemash-Demo/static/js/2.12055793.chunk.js",
-    "static/js/2.12055793.chunk.js.map": "/Tensorflow-Facemash-Demo/static/js/2.12055793.chunk.js.map",
+    "static/js/2.7afc25ee.chunk.js": "/Tensorflow-Facemash-Demo/static/js/2.7afc25ee.chunk.js",
+    "static/js/2.7afc25ee.chunk.js.map": "/Tensorflow-Facemash-Demo/static/js/2.7afc25ee.chunk.js.map",
     "index.html": "/Tensorflow-Facemash-Demo/index.html",
-    "precache-manifest.3b758d5bf1e0f8b086178ab5663af676.js": "/Tensorflow-Facemash-Demo/precache-manifest.3b758d5bf1e0f8b086178ab5663af676.js",
+    "precache-manifest.4227f65b4065336d5c135fc2f108f434.js": "/Tensorflow-Facemash-Demo/precache-manifest.4227f65b4065336d5c135fc2f108f434.js",
     "service-worker.js": "/Tensorflow-Facemash-Demo/service-worker.js",
     "static/css/main.62af4a8d.chunk.css.map": "/Tensorflow-Facemash-Demo/static/css/main.62af4a8d.chunk.css.map",
-    "static/js/2.12055793.chunk.js.LICENSE.txt": "/Tensorflow-Facemash-Demo/static/js/2.12055793.chunk.js.LICENSE.txt"
+    "static/js/2.7afc25ee.chunk.js.LICENSE.txt": "/Tensorflow-Facemash-Demo/static/js/2.7afc25ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.094a6343.js",
-    "static/js/2.12055793.chunk.js",
+    "static/js/2.7afc25ee.chunk.js",
     "static/css/main.62af4a8d.chunk.css",
-    "static/js/main.873cfcb8.chunk.js"
+    "static/js/main.912a967d.chunk.js"
   ]
 }

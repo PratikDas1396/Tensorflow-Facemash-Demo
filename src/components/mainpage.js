@@ -30,6 +30,8 @@ export class MainPage extends Component {
         video.srcObject = stream;
         video.setAttribute("playsinline", true);
         video.play();
+        video.style.width = "100%"
+        video.style.height = "100%"
     }
 
     askPermission() {
@@ -50,6 +52,8 @@ export class MainPage extends Component {
         let ctx = null
         canvasRef.style.border = "1px solid #ccc";
         canvasRef.style.backgroundColor = "#000";
+        canvasRef.style.width = this.videoRef.current.style.width;
+        canvasRef.style.height = this.videoRef.current.style.height;
         ctx = canvasRef.getContext('2d')
         ctx.translate(canvasRef.width, 0);
         ctx.scale(-1, 1);
@@ -73,6 +77,7 @@ export class MainPage extends Component {
         while (true) {
             const img = await webcam.capture();
             const predictions = await this.facemash_model.estimateFaces(img);
+            debugger;
             this.videoCtx.drawImage(video, 0, 0, video.width, video.height, 0, 0, canvas.width, canvas.height);
             if (!this.state.isVideoLoaded)
                 this.setState({ isVideoLoaded: true })
@@ -120,7 +125,7 @@ export class MainPage extends Component {
                                 <canvas ref={this.videoCanvasRef} width="640px" height="480px"></canvas>
                             </div>
                             <div className="col-sm-12 col-md-6">
-                                <canvas ref={this.canvasRef} width="640px" height="480px"></canvas>
+                                <canvas ref={this.canvasRef} width="640px" height="480px"   ></canvas>
                             </div>
                         </div>
                     </div>
@@ -131,11 +136,10 @@ export class MainPage extends Component {
         return (
             <div className="container-fluid p-4">
                 <h2>TensorFlow Facemash API Demonstration</h2>
-                {/* <h3></h3> */}
                 <br />
                 <div className="row">
                     <div className="col-sm-6" style={{ 'display': 'none' }}>
-                        <video ref={this.videoRef} autoPlay width="640px" height="480px" ></video>
+                        <video ref={this.videoRef} autoPlay  width="640px" height="480px"  ></video>
                     </div>
                 </div>
                 {content}
